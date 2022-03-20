@@ -1,0 +1,108 @@
+
+
+a{
+    text-decoration: none;
+}
+
+div{
+    display: flex;
+}
+ul{
+    list-style: none;
+    
+    padding:0px;
+    margin-top:20px;
+    
+
+   
+    
+}
+ul ul li{
+    margin-left:90px;
+    
+    
+
+}
+#ul1{
+    top:65px;
+
+}
+#ul2{
+    top:85px;
+}
+
+ul li a {
+    color: blue;
+}
+ul  ul{
+    position: absolute;
+    visibility: hidden;
+    
+}
+
+
+ ul li:hover ul {
+    visibility:visible;
+    
+}
+
+li:hover{
+    background-color: pink;
+}
+li{
+    border-radius:20px 0;
+    padding-left:10px;
+}
+
+
+
+
+
+
+
+nav{
+    
+    border-right: solid grey 1px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    margin:0;
+    color : grey;
+    border-bottom: solid 2px;
+
+
+
+}
+
+
+p{ color: grey;
+    
+    
+    margin-left: 2cm;
+   
+
+
+   
+    
+
+
+}
+   
+
+#couleur1:hover{
+    background-color: #F6D1D8;
+}
+#couleur2:hover{
+    background-color: #F6D1D8;
+}
